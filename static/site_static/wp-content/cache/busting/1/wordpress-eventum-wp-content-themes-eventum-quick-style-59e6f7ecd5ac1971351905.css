@@ -1,0 +1,8 @@
+.header{ background: #29333f; }#masthead.sticky{ background-color: rgba(41,51,63,.95); }#masthead.sticky{ position:fixed;top:0; z-index:99999;margin:0 auto 30px; width:100%;box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.22);}#masthead.sticky #header-container{ padding:0;transition: padding 200ms linear; -webkit-transition:padding 200ms linear;}#masthead.sticky .navbar.navbar-default{ background: rgba(255,255,255,.95); border-bottom:1px solid #f5f5f5}#main-menu .nav>li>a{ color: #ffffff; }#main-menu .nav>li>a:hover{ color: #4bb463; }#main-menu .nav>li.ticket-menu a{ background-color: #FF8A00; }#main-menu .nav>li.ticket-menu a:hover{ background-color: #D67400; }#main-menu .nav>li>ul li a{ color: #ffffff; }#main-menu .nav>li>ul li:hover{ background-color: #4bb463; }#main-menu .nav>li>ul li a:hover{ color: #ffffff; }.sub-title-inner h2{ color: 1; }.sub-title-inner h2{ color: #000000; }.sub-title-inner h2{ font-size: 48px; }.sub-title .breadcrumb, .sub-title .breadcrumb>li>a, .breadcrumb>li+li:before, .sub-title .breadcrumb>.active{ color: #000000; }.sub-title .breadcrumb{ font-size: 16px; }.sub-title{ margin-bottom: 30px; }footer{ background-color: #343d47; }.footer-wrap-inner .copyright, footer .social-icons i{ color: #999ea3; }.logo-wrapper .navbar-brand>img{ width: 134px; }.logo-wrapper .navbar-brand>img{ height: 35px; }.site-header{ padding-top: 0px; }.site-header{ min-height: 60px; }.site-header{ padding-bottom: 0px; }.error-page-inner{
+	width: 100%;
+    height: 100%;
+    min-height: 100%;
+    position: absolute;
+    background: url(../../../themes/eventum/images/404-bg.png) no-repeat 100% 0; 
+    background-size: contain;
+}                                    
