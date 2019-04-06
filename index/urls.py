@@ -9,4 +9,7 @@ urlpatterns = [
     path('index/', views.index, name='index_index'),
     path('schedule/', views.schedule, name='index_schedule'),
     path('tabbed-layout/', views.tabbed_layout, name='inedx_layout'),
+    path('404-page/', views.error_page, name='index_404'),
+    path('pricing-table/', views.pricing_table, name='index_pricing'),
+    path('coming-soon/', views.coming_soon, name='index_coming'),
 ]

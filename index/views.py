@@ -56,3 +56,25 @@ def tabbed_layout(request):
     context = {'index_layout' : inedx_layout, }
 
     return render(request, 'index/tabbed-layout.html', context)
+
+def error_page(request):
+    index_404 = Upload.objects.all()
+
+    context = {'index_404': index_404, }
+
+    return  render(request, 'index/404-page.html', context)
+
+
+def pricing_table(request):
+    index_pricing = Upload.objects.all()
+
+    context = {'index_pricing': index_pricing, }
+
+    return render(request, 'index/pricing-table.html', context)
+
+def coming_soon(request):
+    index_coming = Upload.objects.all()
+
+    context = {'index_coming': index_coming, }
+
+    return render(request, 'index/coming-soon.html', context)
