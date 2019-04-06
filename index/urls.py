@@ -8,4 +8,5 @@ urlpatterns = [
     path('Speaker/', views.index_detail, name='index_detail'),
     path('index/', views.index, name='index_index'),
     path('schedule/', views.schedule, name='index_schedule'),
+    path('tabbed-layout/', views.tabbed_layout, name='inedx_layout'),
 ]

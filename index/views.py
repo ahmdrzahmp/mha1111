@@ -48,3 +48,11 @@ def schedule(request):
      context = {'index_schedule': index_schedule, }
 
      return render(request, 'index/Schedule part1.html', context)
+
+
+def tabbed_layout(request):
+    inedx_layout = Upload.objects.all()
+
+    context = {'index_layout' : inedx_layout, }
+
+    return render(request, 'index/tabbed-layout.html', context)
