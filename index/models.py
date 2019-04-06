@@ -1,4 +1,5 @@
 from django.db import models
+from django.utils.text import slugify
 
 
 class Upload(models.Model):
@@ -6,6 +7,12 @@ class Upload(models.Model):
     file = models.FileField()
     ip = models.CharField(max_length=128)
     agent = models.CharField(max_length=512)
+    slug = models.SlugField(max_length=40, unique=True, null=True, blank=True)
+
+    def save(self, *args, **kwargs):
+        if not self.slug and self.name:
+            self.slug = slugify(self.name)
+        super(Upload, self).save(*args, **kwargs)
 
     class Meta:
         verbose_name = 'upload'
@@ -323,7 +330,6 @@ class Language(models.Model):
     )
     title = models.CharField(max_length=512)
     status = models.CharField(max_length=1, choices=STATUS, default=ACTIVE)
-
 
     class Meta:
         verbose_name = 'Language'

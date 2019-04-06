@@ -26,4 +26,25 @@ def index_url(request):
 
 
 def index_detail(request):
-    pass
+    index_detail = Upload.objects.all()
+
+    context = {'index_detail': index_detail, }
+
+    return render(request, 'index/Speaker.html', context)
+
+def index(request):
+    index_index =Upload.objects.all()
+
+    context = {'index': index, }
+
+
+    return render(request, 'index/index.html', context)
+
+
+
+def schedule(request):
+     index_schedule = Upload.objects.all()
+
+     context = {'index_schedule': index_schedule, }
+
+     return render(request, 'index/Schedule part1.html', context)
