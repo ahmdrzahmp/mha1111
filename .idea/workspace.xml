@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34e8da28-4145-4366-8103-72c8627830d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index/Templates/index/tabbed-layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/Templates/index/Schedule part1.html" beforeDir="false" afterPath="$PROJECT_DIR$/index/Templates/index/Schedule part1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/index/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/index/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="34e8da28-4145-4366-8103-72c8627830d2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,8 +181,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index/Templates/index/tabbed-layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="33" column="2383" selection-start-line="33" selection-start-column="2383" selection-end-line="33" selection-end-column="2383" />
+            <state relative-caret-position="197">
+              <caret line="33" column="4146" selection-start-line="33" selection-start-column="4146" selection-end-line="33" selection-end-column="4146" />
               <folding>
                 <element signature="e#30188#30240#0#HTML" expanded="true" />
                 <element signature="e#34861#34866#0#HTML" expanded="true" />
@@ -280,7 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="168" />
     <option name="y" value="182" />
     <option name="width" value="931" />
@@ -383,15 +377,15 @@
       <option name="presentableId" value="Default" />
       <updated>1554394342100</updated>
       <workItem from="1554394344453" duration="16805000" />
-      <workItem from="1554498214752" duration="16803000" />
+      <workItem from="1554498214752" duration="17495000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33608000" />
+    <option name="totallyTimeSpent" value="34300000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1376702" />
@@ -734,8 +728,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index/Templates/index/tabbed-layout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="33" column="2383" selection-start-line="33" selection-start-column="2383" selection-end-line="33" selection-end-column="2383" />
+        <state relative-caret-position="197">
+          <caret line="33" column="4146" selection-start-line="33" selection-start-column="4146" selection-end-line="33" selection-end-column="4146" />
           <folding>
             <element signature="e#30188#30240#0#HTML" expanded="true" />
             <element signature="e#34861#34866#0#HTML" expanded="true" />
