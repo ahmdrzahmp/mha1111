@@ -13,4 +13,5 @@ urlpatterns = [
     path('pricing-table/', views.pricing_table, name='index_pricing'),
     path('coming-soon/', views.coming_soon, name='index_coming'),
     path('content-us/', views.content_us, name='index_content'),
+    path('about-us/', views.about_us, name='index_about'),
 ]

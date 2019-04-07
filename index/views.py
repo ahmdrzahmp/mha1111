@@ -85,3 +85,10 @@ def content_us(request):
     context = {'index_content': index_content, }
 
     return render(request, 'index/content-us', context)
+
+def about_us(request):
+    index_about = Upload.objects.all()
+
+    context = {'index_about':index_about, }
+
+    return render(request, 'index/about-us.html', context)
