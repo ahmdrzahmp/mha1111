@@ -92,3 +92,10 @@ def about_us(request):
     context = {'index_about':index_about, }
 
     return render(request, 'index/about-us.html', context)
+
+def blog(request):
+    index_blog = Upload.objects.all()
+
+    context = {'index_blog': index_blog, }
+
+    return render(request, 'index/blog.html', context)
