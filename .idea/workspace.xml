@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34e8da28-4145-4366-8103-72c8627830d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index/Templates/index/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index/Templates/index/blog-page-2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/Templates/index/Speaker.html" beforeDir="false" afterPath="$PROJECT_DIR$/index/Templates/index/Speaker.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/Templates/index/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/index/Templates/index/about-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/Templates/index/content-us" beforeDir="false" afterPath="$PROJECT_DIR$/index/Templates/index/content-us" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/Templates/index/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index/Templates/index/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/Templates/index/pricing-table.html" beforeDir="false" afterPath="$PROJECT_DIR$/index/Templates/index/pricing-table.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/Templates/index/tabbed-layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/index/Templates/index/tabbed-layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/Templates/index/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/index/Templates/index/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/index/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/index/views.py" afterDir="false" />
     </list>
@@ -39,67 +33,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
-              <caret line="101" selection-start-line="101" selection-end-line="101" />
+            <state relative-caret-position="183">
+              <caret line="91" column="30" selection-start-line="91" selection-start-column="30" selection-end-line="91" selection-end-column="30" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index/Templates/index/pricing-table.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="33" column="5969" selection-start-line="33" selection-start-column="5969" selection-end-line="33" selection-end-column="5969" />
-              <folding>
-                <element signature="e#12874#12895#0#HTML" expanded="true" />
-                <element signature="e#31337#31389#0#HTML" expanded="true" />
-                <element signature="e#32183#32208#0#HTML" expanded="true" />
-                <element signature="e#32215#32237#0#HTML" expanded="true" />
-                <element signature="e#32683#32730#0#HTML" expanded="true" />
-                <element signature="e#32957#32982#0#HTML" expanded="true" />
-                <element signature="e#32989#33049#0#HTML" expanded="true" />
-                <element signature="e#33503#33550#0#HTML" expanded="true" />
-                <element signature="e#33777#33802#0#HTML" expanded="true" />
-                <element signature="e#33809#33831#0#HTML" expanded="true" />
-                <element signature="e#34277#34324#0#HTML" expanded="true" />
-                <element signature="e#34706#34731#0#HTML" expanded="true" />
-                <element signature="e#34738#34796#0#HTML" expanded="true" />
-                <element signature="e#35242#35289#0#HTML" expanded="true" />
-                <element signature="e#35493#35518#0#HTML" expanded="true" />
-                <element signature="e#35525#35608#0#HTML" expanded="true" />
-                <element signature="e#36054#36101#0#HTML" expanded="true" />
-                <element signature="e#36305#36330#0#HTML" expanded="true" />
-                <element signature="e#36337#36395#0#HTML" expanded="true" />
-                <element signature="e#36841#36888#0#HTML" expanded="true" />
-                <element signature="e#37286#37311#0#HTML" expanded="true" />
-                <element signature="e#37318#37378#0#HTML" expanded="true" />
-                <element signature="e#37824#37871#0#HTML" expanded="true" />
-                <element signature="e#38075#38100#0#HTML" expanded="true" />
-                <element signature="e#38107#38165#0#HTML" expanded="true" />
-                <element signature="e#38619#38666#0#HTML" expanded="true" />
-                <element signature="e#38870#38895#0#HTML" expanded="true" />
-                <element signature="e#38902#38962#0#HTML" expanded="true" />
-                <element signature="e#39408#39455#0#HTML" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index/Templates/index/Speaker.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="130" column="1173" selection-start-line="130" selection-start-column="1173" selection-end-line="130" selection-end-column="1173" />
-              <folding>
-                <element signature="e#32047#32099#0#HTML" expanded="true" />
-                <element signature="e#32816#32842#0#HTML" expanded="true" />
-                <element signature="e#32867#32956#0#HTML" expanded="true" />
-                <element signature="e#36129#36155#0#HTML" expanded="true" />
-                <element signature="e#36180#36269#0#HTML" expanded="true" />
-                <element signature="e#43020#43025#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -243,12 +180,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index/Templates/index/about-us.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="177">
               <caret line="32" column="6154" selection-start-line="32" selection-start-column="6154" selection-end-line="32" selection-end-column="6154" />
               <folding>
+                <element signature="e#12472#12493#0#HTML" expanded="true" />
+                <element signature="e#30779#30831#0#HTML" expanded="true" />
                 <element signature="e#33664#33688#0#HTML" expanded="true" />
                 <element signature="e#33713#33804#0#HTML" expanded="true" />
                 <element signature="e#34687#34707#0#HTML" expanded="true" />
@@ -274,23 +213,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index/Templates/index/blog.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="31" column="14214" selection-start-line="31" selection-start-column="14211" selection-end-line="31" selection-end-column="14214" />
+            <state relative-caret-position="340">
+              <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index/urls.py">
+        <entry file="file://$PROJECT_DIR$/index/Templates/index/blog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-731">
+              <caret line="31" column="37947" selection-start-line="31" selection-start-column="37947" selection-end-line="31" selection-end-column="37947" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index/Templates/index/blog-page-2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="31" column="5063" selection-start-line="31" selection-start-column="5063" selection-end-line="31" selection-end-column="5063" />
             </state>
           </provider>
         </entry>
@@ -299,36 +247,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>content</find>
-      <find>index_conte</find>
-      <find>../</find>
-      <find>../home</find>
-      <find>../index</find>
-      <find>../them</find>
-      <find>home</find>
-      <find>countdow</find>
-      <find>../contac</find>
-      <find>../abou</find>
       <find>contact</find>
       <find>.jp</find>
       <find>../ab</find>
       <find>about</find>
-      <find>../about</find>
       <find>../sched</find>
       <find>../com</find>
       <find>../contact</find>
       <find>../inde</find>
       <find>../themeum-p</find>
-      <find>.jpg</find>
       <find>../blo</find>
       <find>blog</find>
-      <find>../blog</find>
       <find>../spe</find>
       <find>../sche</find>
       <find>../tabbed</find>
       <find>../404</find>
       <find>../themeum-pr</find>
       <find>../comin</find>
+      <find>../about</find>
+      <find>page/2</find>
+      <find>../blog</find>
+      <find>.jpg</find>
+      <find>../../index</find>
+      <find>../../speaker</find>
+      <find>../../schedu</find>
+      <find>../../tabbed</find>
+      <find>../../404</find>
+      <find>../../themeum-pr</find>
+      <find>../../coming</find>
+      <find>../../sche</find>
+      <find>../index</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -347,16 +295,17 @@
         <option value="$PROJECT_DIR$/index/Templates/index/404-page.html" />
         <option value="$PROJECT_DIR$/index/Templates/index/coming-soon.html" />
         <option value="$PROJECT_DIR$/index/Templates/index/Schedule part1.html" />
-        <option value="$PROJECT_DIR$/index/views.py" />
-        <option value="$PROJECT_DIR$/index/urls.py" />
         <option value="$PROJECT_DIR$/Templates/base.html" />
         <option value="$PROJECT_DIR$/index/Templates/index/pricing-table.html" />
         <option value="$PROJECT_DIR$/index/Templates/index/Speaker.html" />
         <option value="$PROJECT_DIR$/index/Templates/index/index.html" />
         <option value="$PROJECT_DIR$/index/Templates/index/content-us" />
-        <option value="$PROJECT_DIR$/index/Templates/index/about-us.html" />
         <option value="$PROJECT_DIR$/index/Templates/index/tabbed-layout.html" />
+        <option value="$PROJECT_DIR$/index/views.py" />
+        <option value="$PROJECT_DIR$/index/urls.py" />
         <option value="$PROJECT_DIR$/index/Templates/index/blog.html" />
+        <option value="$PROJECT_DIR$/index/Templates/index/blog-page-2.html" />
+        <option value="$PROJECT_DIR$/index/Templates/index/about-us.html" />
       </list>
     </option>
   </component>
@@ -408,13 +357,6 @@
               <item name="mha111" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="site_static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mha111" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mha111" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="site_static" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mha111" type="b2602c69:ProjectViewProjectNode" />
@@ -486,18 +428,18 @@
       <option name="presentableId" value="Default" />
       <updated>1554394342100</updated>
       <workItem from="1554394344453" duration="16805000" />
-      <workItem from="1554498214752" duration="33563000" />
+      <workItem from="1554498214752" duration="39588000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50368000" />
+    <option name="totallyTimeSpent" value="56393000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11875945" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13313162" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -703,26 +645,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="101" selection-start-line="101" selection-end-line="101" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index/Templates/index/pricing-table.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
@@ -901,10 +823,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index/Templates/index/tabbed-layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="33" column="5151" selection-start-line="33" selection-start-column="5151" selection-end-line="33" selection-end-column="5151" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index/Templates/index/content-us">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
           <caret line="32" column="5486" selection-start-line="32" selection-start-column="5486" selection-end-line="32" selection-end-column="5486" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="91" column="30" selection-start-line="91" selection-start-column="30" selection-end-line="91" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/Templates/index/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-731">
+          <caret line="31" column="37947" selection-start-line="31" selection-start-column="37947" selection-end-line="31" selection-end-column="37947" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/site_static/blog/page/2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="78" selection-end-line="1246" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/Templates/index/blog-page-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="31" column="5063" selection-start-line="31" selection-start-column="5063" selection-end-line="31" selection-end-column="5063" />
         </state>
       </provider>
     </entry>
@@ -913,6 +883,8 @@
         <state relative-caret-position="177">
           <caret line="32" column="6154" selection-start-line="32" selection-start-column="6154" selection-end-line="32" selection-end-column="6154" />
           <folding>
+            <element signature="e#12472#12493#0#HTML" expanded="true" />
+            <element signature="e#30779#30831#0#HTML" expanded="true" />
             <element signature="e#33664#33688#0#HTML" expanded="true" />
             <element signature="e#33713#33804#0#HTML" expanded="true" />
             <element signature="e#34687#34707#0#HTML" expanded="true" />
@@ -925,20 +897,6 @@
             <element signature="e#44048#44118#0#HTML" expanded="true" />
             <element signature="e#44187#44224#0#HTML" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index/Templates/index/tabbed-layout.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="33" column="5151" selection-start-line="33" selection-start-column="5151" selection-end-line="33" selection-end-column="5151" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index/Templates/index/blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="31" column="14214" selection-start-line="31" selection-start-column="14211" selection-end-line="31" selection-end-column="14214" />
         </state>
       </provider>
     </entry>

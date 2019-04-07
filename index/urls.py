@@ -15,4 +15,5 @@ urlpatterns = [
     path('content-us/', views.content_us, name='index_content'),
     path('about-us/', views.about_us, name='index_about'),
     path('blog/', views.blog, name='index_blog'),
+    path('blog-page-2/', views.blog_page2, name='index_blog_page2'),
 ]

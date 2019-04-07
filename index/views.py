@@ -89,7 +89,7 @@ def content_us(request):
 def about_us(request):
     index_about = Upload.objects.all()
 
-    context = {'index_about':index_about, }
+    context = {'index_about': index_about, }
 
     return render(request, 'index/about-us.html', context)
 
@@ -99,3 +99,10 @@ def blog(request):
     context = {'index_blog': index_blog, }
 
     return render(request, 'index/blog.html', context)
+
+def blog_page2(request):
+    index_blog_page2 = Upload.objects.all()
+
+    context = {'index_blog_page2': index_blog_page2, }
+
+    return render(request, 'index/blog-page-2.html', context)
