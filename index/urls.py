@@ -12,4 +12,5 @@ urlpatterns = [
     path('404-page/', views.error_page, name='index_404'),
     path('pricing-table/', views.pricing_table, name='index_pricing'),
     path('coming-soon/', views.coming_soon, name='index_coming'),
+    path('content-us/', views.content_us, name='index_content'),
 ]

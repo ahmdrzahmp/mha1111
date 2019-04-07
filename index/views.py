@@ -78,3 +78,10 @@ def coming_soon(request):
     context = {'index_coming': index_coming, }
 
     return render(request, 'index/coming-soon.html', context)
+
+def content_us(request):
+    index_content = Upload.objects.all()
+
+    context = {'index_content': index_content, }
+
+    return render(request, 'index/content-us', context)
