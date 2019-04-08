@@ -106,3 +106,27 @@ def blog_page2(request):
     context = {'index_blog_page2': index_blog_page2, }
 
     return render(request, 'index/blog-page-2.html', context)
+
+def cart(request):
+    index_cart = Upload.objects.all()
+
+    context = {'index_cart': index_cart, }
+
+    return render(request, 'index/cart.html', context)
+
+def checkout(request):
+    index_checkout = Upload.objects.all()
+
+    context = {'index_checkout': index_checkout, }
+
+    return render(request, 'index/checkout.html', context)
+
+def shop(request):
+    index_shop = Upload.objects.all()
+
+    context = {'index_shop': index_shop, }
+
+    return render(request, 'index/shop.html', context)
+
+
+
